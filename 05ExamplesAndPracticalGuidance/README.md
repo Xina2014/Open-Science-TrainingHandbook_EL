@@ -1,7 +1,7 @@
 ## <img src="/Images/Icons/live_event.png" width="200" height="200" /> <img src="/Images/Icons/balloon_thought.png" width="200" height="200" />
 ### Examples & Practical Guidance: adopt, adapt, develop
 
-In this chapter, you will find a wealth of materials to help you actively engage your trainees in critically examining Open Science issues.
+Σε αυτό το κεφάλαιο θα βρείτε μια πληθώρα υλικού που θα σας βοηθήσει να συμμετάσχετε ενεργά με τους εκπαιδευόμενούς σας στην κριτική εξέταση των θεμάτων για την ανοικτή επιστήμη.
 
 We recommend you approach all of these materials with the motto "Adopt, adapt, develop" in mind—meaning that its best to re-use what exists where possible. Hence, before you start developing training resources from scratch you should find out whether there are existing resources you may use. We give some example resources here, with tips for how they could be adapted for your purposes. We also provide links and strategies to help you find further material. In some cases, existing resources may be used as they are, so you may simply **adopt** them. An example at stake may be an openly available video tutorial about open file formats which you may point your audience to. In other cases, you may have to **adapt** existing resources somewhat in order to make them fit your purposes. For example, you may need to add/replace some institution- or country-specific references to an existing overview of Open Access requirements issued by research funders. Only as a last resort you should **develop** your own training resources from scratch. If you want to develop your own training materials, be sure to develop Open Educational Resources so that other trainers can reuse and adapt your materials.
 
